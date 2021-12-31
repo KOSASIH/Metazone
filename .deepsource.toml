@@ -67,3 +67,11 @@ enabled = true
 [[transformers]]
 name = "isort"
 enabled = true
+
+[[transformers]]
+name = "standardjs"
+enabled = true
+
+[[transformers]]
+name = "prettier"
+enabled = true
