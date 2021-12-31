@@ -2,6 +2,9 @@
 [![Documentation Status](https://readthedocs.org/projects/metazone/badge/?version=latest)](https://metazone.readthedocs.io/en/latest/?badge=latest)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/94d79b95-b047-4063-bd88-97d455a2d699/deploy-status)](https://app.netlify.com/sites/metazone/deploys)     
 [![CircleCI](https://circleci.com/gh/KOSASIH/Metazone/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/KOSASIH/Metazone/tree/circleci-project-setup)
+[![GitHub issues](https://img.shields.io/github/issues/KOSASIH/Metazone)](https://github.com/KOSASIH/Metazone/issues)
+[![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Metazone)](https://github.com/KOSASIH/Metazone/network)
+
 
 
 # Metazone
