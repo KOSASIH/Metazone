@@ -26,10 +26,6 @@ name = "python"
 enabled = true
 
 [[analyzers]]
-name = "java"
-enabled = true
-
-[[analyzers]]
 name = "ruby"
 enabled = true
 
