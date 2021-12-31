@@ -7,6 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Metazone)](https://github.com/KOSASIH/Metazone/stargazers)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Metazone)](https://github.com/KOSASIH/Metazone/blob/main/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2FKosasihg88G)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5495/badge)](https://bestpractices.coreinfrastructure.org/projects/5495)
 
 
 # Metazone
