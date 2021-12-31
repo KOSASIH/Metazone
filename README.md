@@ -4,8 +4,8 @@
 [![CircleCI](https://circleci.com/gh/KOSASIH/Metazone/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/KOSASIH/Metazone/tree/circleci-project-setup)
 [![GitHub issues](https://img.shields.io/github/issues/KOSASIH/Metazone)](https://github.com/KOSASIH/Metazone/issues)
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Metazone)](https://github.com/KOSASIH/Metazone/network)
-
-
+[![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Metazone)](https://github.com/KOSASIH/Metazone/stargazers)
+[![GitHub license](https://img.shields.io/github/license/KOSASIH/Metazone)](https://github.com/KOSASIH/Metazone/blob/main/LICENSE)
 
 # Metazone
 NFT Marketplace which provides transactions with cryptocurrencies
