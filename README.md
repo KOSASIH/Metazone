@@ -11,6 +11,7 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5495/badge)](https://bestpractices.coreinfrastructure.org/projects/5495)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
+[![Packaging status](https://repology.org/badge/vertical-allrepos/postman.svg)](https://repology.org/project/postman/versions)
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=KOSASIH/Metazone)
 
 ## 😂 Here is a random joke that'll make you laugh!
