@@ -10,7 +10,7 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5495/badge)](https://bestpractices.coreinfrastructure.org/projects/5495)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
-
+![GitHub Contributors Image](https://contrib.rocks/image?repo=KOSASIH/Metazone)
 
 # Metazone
 NFT Marketplace which provides transactions with cryptocurrencies
