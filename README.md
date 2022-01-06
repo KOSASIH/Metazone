@@ -13,6 +13,12 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=KOSASIH/Metazone)
 
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
