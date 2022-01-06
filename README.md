@@ -15,6 +15,8 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=KOSASIH/Metazone)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=KOSASIH&row=1)](https://github.com/KOSASIH/github-profile-trophy)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=KOSASIH&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KOSASIH&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
