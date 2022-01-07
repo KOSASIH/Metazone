@@ -54,4 +54,5 @@ NFT Marketplace which provides transactions with cryptocurrencies
 To make a transaction, please create a wallet account here :
 https://wallet.near.org/create
 # Arthics
+Collect, sell, trade and play with the most exclusive NFT’s
 https://artichs.54nft.io/
