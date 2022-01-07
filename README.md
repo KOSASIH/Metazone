@@ -50,6 +50,7 @@
 
 # Metazone
 NFT Marketplace which provides transactions with cryptocurrencies
-
+# Wallet
+https://wallet.near.org/create
 # Arthics
 https://artichs.54nft.io/
