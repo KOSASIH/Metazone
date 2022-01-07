@@ -51,6 +51,7 @@
 # Metazone
 NFT Marketplace which provides transactions with cryptocurrencies
 # Wallet
+To make a transaction, please create a wallet account here :
 https://wallet.near.org/create
 # Arthics
 https://artichs.54nft.io/
