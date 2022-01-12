@@ -5,7 +5,7 @@ NFT Marketplace which provides transactions with cryptocurrencies.
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Metazone.svg/?label=active+issues&show_trend=true&token=OUldJiBXyyndWIItWLe5QOm9)](https://deepsource.io/gh/KOSASIH/Metazone/?ref=repository-badge)
 [![Documentation Status](https://readthedocs.org/projects/metazone/badge/?version=latest)](https://metazone.readthedocs.io/en/latest/?badge=latest)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/94d79b95-b047-4063-bd88-97d455a2d699/deploy-status)](https://app.netlify.com/sites/metazone/deploys)     
+[![Netlify Status](https://api.netlify.com/api/v1/badges/94d79b95-b047-4063-bd88-97d455a2d699/deploy-status)](https://app.netlify.com/sites/metazone/deploys)  
 [![CircleCI](https://circleci.com/gh/KOSASIH/Metazone/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/KOSASIH/Metazone/tree/circleci-project-setup)
 [![GitHub issues](https://img.shields.io/github/issues/KOSASIH/Metazone)](https://github.com/KOSASIH/Metazone/issues)
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Metazone)](https://github.com/KOSASIH/Metazone/network)
@@ -17,7 +17,6 @@ NFT Marketplace which provides transactions with cryptocurrencies.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=KOSASIH/Metazone)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=KOSASIH&row=1)](https://github.com/KOSASIH/github-profile-trophy)
-
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/Metazone/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -31,7 +30,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
