@@ -50,13 +50,3 @@
 # Metazone
 
 NFT Marketplace which provides transactions with cryptocurrencies
-
-# Wallet
-
-To make a transaction, please create a wallet account here :
-https://wallet.near.org/create
-
-# Artichs
-
-Collect, sell, trade and play with the most exclusive NFT’s
-https://artichs.54nft.io/login
