@@ -37,7 +37,6 @@
 [![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
 [![GoDoc reference example](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/nanomsg.org/go/mangos/v2)
 [![GoReportCard example](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/nanomsg/mangos)
-[![GitHub license](https://img.shields.io/github/license/KOSASIH/StrapDown.js.svg)](https://github.com/KOSASIH/StrapDown.js/blob/master/LICENSE)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/KOSASIH/badges/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Awesome badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/KOSASIH/badges)
@@ -52,11 +51,4 @@
 
 NFT Marketplace which provides transactions with cryptocurrencies
 
-# Wallet
 
-To make a transaction, please create a wallet account here :
-https://wallet.near.org/create
-
-# Arthics
-
-https://artichs.54nft.io/
